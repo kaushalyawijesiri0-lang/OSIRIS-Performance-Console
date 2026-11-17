@@ -154,18 +154,9 @@ Test records should identify the firmware revision, hardware configuration, meth
 
 ## Project Status
 
-**Academic hardware prototype · Repository documentation in progress**
+**Academic hardware prototype completed · Repository documentation in progress**
 
 The prototype is documented in the final project report. Repository work focuses on making its implementation easier to inspect, reproduce, and maintain.
-
-- [ ] Publish the three firmware modules
-- [ ] Document exact toolchain and library versions
-- [ ] Add verified schematics and pin maps
-- [ ] Add component lists and power requirements
-- [ ] Publish prototype photos and a demonstration video
-- [ ] Record reproducible bench tests
-- [ ] Document individual engineering contributions
-- [ ] Package the first verified firmware release
 
 ## Team
 
@@ -173,19 +164,29 @@ The prototype is documented in the final project report. Repository work focuses
 University of Moratuwa  
 First Year · IN1901: Microcontroller Based Application Development
 
-| Member |
-| :--- |
-| Wijesiri KSK |
-| Jayanath SP |
-| Nuwanjana HMM |
-| Gunasekara MIT |
-| Dinisuru PWL |
+| **Member** | **GitHub** |
+| :--- | :--- |
+| Wijesiri KSK | [@kaushalyawijesiri0-lang](https://github.com/kaushalyawijesiri0-lang) |
+| Jayanath SP | [@jayanathsp-24](https://github.com/jayanathsp-24) |
+| Nuwanjana HMM | [@MNuwanjana](https://github.com/MNuwanjana) |
+| Gunasekara MIT | [@inusha-thathsara](https://github.com/inusha-thathsara) |
+| Dinisuru PWL | [@Dinisuru-PWL](https://github.com/Dinisuru-PWL) |
 
 **Supervisor:** Mr. B. H. Sudantha
 
 ## License
 
 A repository license has not yet been selected. Reuse permissions for firmware, hardware designs, and media will be documented once agreed upon by the contributors.
+
+## Related Repositories
+
+### AirDJ Mobile Application
+
+A companion mobile application developed for the Air DJ system, featuring Bluetooth connectivity, device monitoring, playlist management, and LED-related telemetry visualization.
+
+The application was developed as a separate component during the project.
+
+**Repository:** [AirDJ Mobile App](https://github.com/inusha-thathsara/air_dj)
 
 ---
 
